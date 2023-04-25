@@ -5,6 +5,7 @@ including the creation of:
 Educational Website - [Sayatty.com](https://sayatty.com) and *Published version* Google Extension - [Sayatty](https://chrome.google.com/webstore/detail/sayatty/lmenpkbmfbemejmkjjfpfgfjpeifjejk).
 # Languages 
 Converter only supports Kazakh Latin and Kazakh cyrillic alphabets.
+Any other language can be easily added. 
 # Quick Start
 Just unzip the folder and it is ready to use! 
 Manifest Version: 3
