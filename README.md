@@ -3,6 +3,8 @@ Converter is a part of a Language for Peace project. Language for Peace project 
 Latin language among citizens of Kazakhstan. Developed IT solutions as part of the project to facilitate language learning,
 including the creation of: 
 Educational Website - [Sayatty.com](https://sayatty.com) and *Published version* Google Extension - [Sayatty](https://chrome.google.com/webstore/detail/sayatty/lmenpkbmfbemejmkjjfpfgfjpeifjejk).
+# Imporant! 
+Project was done in Russian and Kazakh Languages.
 # Quick Start
 Just unzip the folder and it is ready to use! 
 Manifest Version: 3
